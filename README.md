@@ -1,3 +1,4 @@
+# Higher-Education-DEI
 This project analyzes the impact of recent legislative changes on diversity, equity, and inclusion (DEI) efforts across higher education institutions in Texas, with a specific focus on the Dallas–Fort Worth (DFW) region. It combines institutional research, policy analysis, and real-world reporting to evaluate how Senate Bill 17 (SB 17) is reshaping university structures, student support systems, and campus climate.
 
 The dataset and findings include a comprehensive review of major public and private universities in the DFW area, documenting whether DEI offices exist, have been modified, or have been dismantled following the implementation of SB 17. The research highlights how public institutions—such as the University of North Texas—have already begun eliminating DEI offices, while others are restructuring programs to remain compliant with state law while attempting to preserve inclusion efforts.
